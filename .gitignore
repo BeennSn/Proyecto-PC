@@ -216,3 +216,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+
+# --- REGLAS PERSONALIZADAS DE MI PROYECTO CLÍNICO ---
+# Ignorar el dataset de imágenes
+dataset_clinico/
+
+# Ignorar los pesos de la red neuronal (archivos pesados)
+*.pth
